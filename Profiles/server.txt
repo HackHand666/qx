@@ -1,10 +1,10 @@
-http=aimer.one:3333, fast-open=false, udp-relay=false, tag=?? 解锁节点-leeds
-http=xbmmw.xyz:1001, fast-open=false, udp-relay=false, tag=?? 解锁节点-xbmango
-http=192.168.11.33:40080, fast-open=false, udp-relay=false, tag=?? 解锁节点-test
+http=aimer.one:3333, fast-open=false, udp-relay=false, tag=馃幍 瑙ｉ攣鑺傜偣-leeds
+http=xbmmw.xyz:1001, fast-open=false, udp-relay=false, tag=馃幍 瑙ｉ攣鑺傜偣-xbmango
+http=192.168.11.33:40080, fast-open=false, udp-relay=false, tag=馃幍 瑙ｉ攣鑺傜偣-test
 
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_vrfn, fast-open=false, udp-relay=false, tag=?? 解锁节点-1
-http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=?? 解锁节点-2
-http=taron.top:100, fast-open=false, udp-relay=false, tag=?? 解锁节点-3
-http=taron.top:200, fast-open=false, udp-relay=false, tag=?? 解锁节点-4
-http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=?? 解锁节点-5
-http=music.griouges.cn:39000, over-tls=false, fast-open=false, udp-relay=false, tag=?? 解锁节点-6
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_vrfn, fast-open=false, udp-relay=false, tag=馃幍 瑙ｉ攣鑺傜偣-1
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=馃幍 瑙ｉ攣鑺傜偣-2
+http=taron.top:100, fast-open=false, udp-relay=false, tag=馃幍 瑙ｉ攣鑺傜偣-3
+http=taron.top:200, fast-open=false, udp-relay=false, tag=馃幍 瑙ｉ攣鑺傜偣-4
+http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=馃幍 瑙ｉ攣鑺傜偣-5
+http=music.griouges.cn:39000, over-tls=false, fast-open=false, udp-relay=false, tag=馃幍 瑙ｉ攣鑺傜偣-6
