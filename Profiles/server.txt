@@ -1,4 +1,4 @@
-http=aimer.one:33333, fast-open=false, udp-relay=false, tag=🎵 解锁节点-leeds
+http=aimer.one:10086, fast-open=false, udp-relay=false, tag=🎵 解锁节点-leeds
 http=xbmmw.xyz:1001, fast-open=false, udp-relay=false, tag=🎵 解锁节点-xbmango
 http=192.168.11.33:40080, fast-open=false, udp-relay=false, tag=🎵 解锁节点-test
 
