@@ -1,7 +1,6 @@
 [MITM]
 hostname = wnl28.jiemengjia.com
 
-/**************************/
 
 let obj = JSON.parse($response.body);
 obj.data.is_vip = 1;
